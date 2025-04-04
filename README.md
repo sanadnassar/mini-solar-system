@@ -1,6 +1,6 @@
 # Solar System Animation 🌍☀️
 https://sanadnassar.github.io/mini-solar-system/
-A mini model of our solar system that includes: Sun, Mars, Earth and the Moon with orbital animation.
+A beautiful mini model of our solar system with orbital animation
 
 
 ## Features ✨
