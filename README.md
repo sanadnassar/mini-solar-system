@@ -3,6 +3,9 @@ https://sanadnassar.github.io/mini-solar-system/
 A beautiful mini model of our solar system with orbital animation
 
 
+## Solar System Prototype  
+Current version includes: Sun, Earth, Moon, and Mars. More planets coming soon!
+
 ## Features ✨
 
 - **Orbital animations** using CSS keyframes
@@ -22,3 +25,4 @@ You can:
 - Add more planets by copying the existing patterns
 - Modify colors and sizes in the CSS
 - Replace the planetary images with your own
+
