@@ -1,5 +1,8 @@
-# mini-solar-system
-A CSS-animated mini model of our solar system that includes: Sun, Mars, Earth and the Moon with orbital animation.
+# Solar System Animation 🌍☀️
+https://sanadnassar.github.io/mini-solar-system/
+A beautiful mini model of our solar system that includes: Sun, Mars, Earth and the Moon with orbital animation.
+
+
 ## Features ✨
 
 - **Orbital animations** using CSS keyframes
